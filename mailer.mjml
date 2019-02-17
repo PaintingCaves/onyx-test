@@ -1,0 +1,219 @@
+<mjml>
+<mj-head>
+        <mj-attributes>
+          <mj-class name="title" font-size="48px" color="#6fb743" font-style="italic"/>
+          <mj-class name="infoTitle" font-size="30px" align="center" color="
+#b07330"/>
+          <mj-class name="priceText" font-size="36px" color="#50b065" />
+          <mj-class name="testiTitle" font-size="20px" color="purple" font-style="italic" />
+          <mj-all font-family="Roboto, Open Sans, Helvetica, Arial, sans-serif"  font-size="14px"/>
+        </mj-attributes>
+<mj-title>TravelStar Sunshine Special</mj-title>
+
+</mj-head>
+  <mj-body background-color="#f0ead6" padding="20px">
+  <mj-section>
+    
+      <mj-column width="90%">
+        <mj-text align="center" mj-class="title">
+          TravelStar Sunshine Special
+        </mj-text>
+      </mj-column>
+    
+  </mj-section>
+    <mj-section>
+      <mj-column>
+
+        <mj-divider border-color="orange"></mj-divider>
+
+        <mj-text align="center" font-size="24px" font-family="helvetica">Join us for some fun in the sun!</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px">
+      <mj-column width="80%">
+                <mj-text font-size="16px" align="justify">
+          Dear valued member, TravelStar would like to invite you to come along for a sensational tropical holiday with our Sunshine Special deals. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding="20px">
+      <mj-section border=" #00abd9 5px solid">
+        <mj-column width="100%" >
+          <mj-text mj-class="infoTitle">
+            Beaches in Bali
+          </mj-text>
+          <mj-text  line-height="20px">
+            Bask on the beach in Bali without breaking your bank account. This package deal to the Indonesian Island includes accomodation at a high class resort, breakfast and all the sea breezes you could want.
+          </mj-text>
+          <mj-text>
+            Length of stay: 7 days
+          </mj-text>
+          <mj-text>
+            Accomodation: Hard Rock Hotel
+          </mj-text>
+          <mj-text>
+            Availability: From March 16th to April 8th
+          </mj-text>
+          <mj-text color="#50b065">
+            From only <span style="font-size:36px;color:#369077">R10 999</span> per person all incl.
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+  <mj-image src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Denpasar%2C_Bali.jpg" css-class="imageFull" fluid-on-mobile="true" width=600px alt="Bali Image"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-button font-family="Helvetica" background-color="#f45e43" color="white" href="mailto:special@travelstar.com?subject=Re:Sunshine Special &body=Hi TravelStar.%0D%0AI would like to join you for a sunny holiday in Bali!%0D%0AName:%0D%0ANumber of Guests:%0D%0ADeparture date:
+  ">
+            Book Now!
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper padding="20px">
+      <mj-section border=" #00abd9 5px solid">
+        <mj-column width="100%" >
+          <mj-text mj-class="infoTitle">
+            Relax in Rica
+          </mj-text>
+          <mj-text line-height="20px">
+            Let all your cares fall away and relax in Costa Rica with this luxury package. At the Heliconias Nature Lodge you can leave the modern world behind and embrace the jungle. Deal includes transport to the lodge and all meals.
+          </mj-text>
+          <mj-text>
+            Length of stay: 5 days
+          </mj-text>
+          <mj-text>
+            Accomodation: Heliconias Nature Lodge
+          </mj-text>
+          <mj-text>
+            Availability: From March 19 to May 7th
+          </mj-text>
+          <mj-text color="#50b065">
+            From only <span style="font-size:36px;color:#369077">R15 777</span> per person all incl.
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+  <mj-image src="https://s3.amazonaws.com/beautifulnow_production/uploads/ckeditor_assets/pictures/11903/content_c8-Image-by-Arturo-Sotillo.-Costa-Rica...-No-artificial-ingredients_-La-Fortuna_-Costa-Rica.jpg" css-class="imageFull" fluid-on-mobile="true" width=600px alt="Costa Rica volcano"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-button font-family="Helvetica" background-color="#f45e43" color="white" href="mailto:special@travelstar.com?subject=Re:Sunshine Special &body=Hi TravelStar.%0D%0AI would like to join you for a sunny holiday in Costa Rica!%0D%0AName:%0D%0ANumber of Guests:%0D%0ADeparture date:
+  ">
+            Book Now!
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+    <mj-wrapper padding="20px">
+      <mj-section border=" #00abd9 5px solid">
+        <mj-column width="100%" >
+          <mj-text mj-class="infoTitle">
+            Cruise to the Canaries
+          </mj-text>
+          <mj-text  line-height="20px">
+Set sail for the Canary Islands with this special Royal Caribbean cruise deal. This moving vacation destination starts at Tampa Bay in Florida and goes via the Bahamas ending off the African continent in Tenerife. Sleep by the pool and sip cocktails while the captain takes you there. Flights to Florida included!
+          </mj-text>
+          <mj-text>
+            Duration: 14 days
+          </mj-text>
+          <mj-text>
+            Ship: Allure of the seas
+          </mj-text>
+          <mj-text>
+            Ship departs: October 14th, Book soon!
+          </mj-text>
+          <mj-text color="#50b065">
+            From only <span style="font-size:36px;color:#369077">R17 786</span> per person all incl.
+          </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+  <mj-image src="https://c1.staticflickr.com/4/3434/3822367398_3ab5f75e06_b.jpg" css-class="imageFull" fluid-on-mobile="true" width=600px alt="cruise image"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-button font-family="Helvetica" background-color="#f45e43" color="white" href="mailto:special@travelstar.com?subject=Re:Sunshine Special &body=Hi TravelStar.%0D%0AI would like to join you for a sunny holiday on the Costa Pacifica!%0D%0AName:%0D%0ANumber of Guests:%0D%0A
+  ">
+            Book Now!
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      
+    </mj-wrapper>
+    <mj-wrapper  padding="0px 20px">
+<mj-section  padding-top="0px">
+  <mj-column width="100%">
+    <mj-text align="center" font-size="24px" font-family="helvetica">
+          Hurry and get your booking in now or miss out on the deal of a lifetime.
+    </mj-text>
+    <mj-text align="left" font-size="20px" font-family="helvetica">
+      But don't just take our word for it. Hear from these satisfied customers:
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="100%">
+    <mj-text mj-class="testiTitle">
+      "Easy and efficient"
+    </mj-text>
+    <mj-text>
+TravelStar made booking and securing my dream holiday a breeze! Best packages and fantastic service! Thank you TravelStar!
+    </mj-text>
+    <mj-text align="right">    
+- Mrs R Thomas
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text mj-class="testiTitle">
+      "Painless and hassle-free"
+    </mj-text>
+    <mj-text>
+The thought of booking a family holiday usually made me stressed and panicked but thanks to TravelStar’s efficient service and ease of booking, it was painless and hassle-free! Highly recommended!
+    </mj-text>
+        <mj-text align="right">    
+- Mr Jaco Cloete
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text mj-class="testiTitle">
+      "Smooth, enjoyable and relaxed"
+    </mj-text>
+    <mj-text>
+Planning a honeymoon is a very special occasion and everything needs to be perfect. TravelStart ensured that our first trip together as newlyweds was smooth, enjoyable and as relaxed as it should be! Thank you to the team for the seamless and enjoyable process!
+    </mj-text>
+        <mj-text align="right">    
+ - Mr and Mrs Barnsworth
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+<mj-column width="100%">
+<mj-text align="left" font-size="20px" font-family="helvetica">
+  Or even see them:
+</mj-text>
+  <mj-image src="https://cdn3.iconfinder.com/data/icons/seo-marketing-2-1/48/56-512.png" width="120px" href="https://www.youtube.com/watch?v=RFkYhBs5eNc" alt="" />
+</mj-column>
+</mj-section>
+   </mj-wrapper>
+    <mj-wrapper>
+      <mj-section background-color="#ffffff">
+      <mj-column width="50%" vertical-align="top">
+        <mj-image href="#travelstar.com" src="https://upload.wikimedia.org/wikipedia/commons/6/68/5_STAR_LINE.jpg" alt="TravelStar logo" align="center" border="none"    padding-bottom="10px" padding-top="10px"></mj-image>
+        <mj-text align="center">
+          TravelStar Inc
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" vertical-align="top">
+        <mj-social font-size="18px">
+          <mj-text align="center">Stay in touch with us:</mj-text>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" background-color="#3b5998" href="#facebook/travelstar"> </mj-social-element>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" href="#twitter/travelstar" background-color="#55acee">
+          </mj-social-element>
+          <mj-social-element name="instagram" href="#instagram/travelstar"> </mj-social-element>
+          <mj-social-element src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png" href="#linkein/travelstar" background-color="#0077b5">
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    </mj-wrapper>
+    
+        
+  </mj-body>
+</mjml>
